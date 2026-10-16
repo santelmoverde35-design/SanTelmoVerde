@@ -591,7 +591,7 @@ app.post('/api/ai/chat', async (req, res) => {
 });
 
 // ——— Moderación ———
-const MODERADORES = (process.env.MODERADORES || 'tu-email@gmail.com')
+const MODERADORES = (process.env.MODERADORES || 'santelmoverde@gmail.com')
   .split(',')
   .map((e) => e.trim().toLowerCase())
   .filter(Boolean);
