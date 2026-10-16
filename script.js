@@ -61,7 +61,7 @@ const GOOGLE_CLIENT_ID = '238089660652-b04ml760v9nqbtnjuenubc5a1p1mla6r.apps.goo
 /* Emails autorizados a moderar (coinciden con el email de Google al ingresar).
    Agregá los del equipo. También podés usar el flag local stv_soy_mod=1 en consola. */
 const MODERADORES = [
-  'thiagovillagodoy@gmail.com',
+  'santelmoverde35@gmail.com',
   // 'otro.moderador@gmail.com',
 ];
 
