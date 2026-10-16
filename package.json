@@ -1,0 +1,33 @@
+{
+  "name": "san-telmo-verde",
+  "version": "1.0.0",
+  "description": "Plataforma ciudadana San Telmo Verde",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.22.2",
+    "google-auth-library": "^9.14.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GatoAutoPatoPizza/San-Telmo-Verde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/GatoAutoPatoPizza/San-Telmo-Verde/issues"
+  },
+  "homepage": "https://github.com/GatoAutoPatoPizza/San-Telmo-Verde#readme"
+}
